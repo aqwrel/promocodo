@@ -4,6 +4,10 @@
 
 ## Build Setup
 
+## Demo
+
+[Click](http://aqwrel.github.io/project/promocodo/index.html)
+
 ``` bash
 # install dependencies
 npm install
